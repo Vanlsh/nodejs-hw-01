@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "name": "Muriel Legros",
+    "phone": "297.950.3316",
+    "email": "Hipolito.White16@gmail.com",
+    "job": "Direct Division Strategist"
+  },
+  {
+    "name": "Dr. Jon Buckridge",
+    "phone": "(762) 945-6231 x165",
+    "email": "Joaquin89@gmail.com",
+    "job": "Product Creative Orchestrator"
+  },
+  {
+    "name": "Steven Weissnat",
+    "phone": "700.805.0386 x963",
+    "email": "Kiana.Prohaska71@yahoo.com",
+    "job": "Customer Configuration Representative"
+  },
+  {
+    "name": "Tracey Bayer",
+    "phone": "226-507-4385 x276",
+    "email": "Quinn_Davis99@gmail.com",
+    "job": "Product Directives Architect"
+  },
+  {
+    "name": "Christie Fadel",
+    "phone": "1-840-685-2705 x44672",
+    "email": "Zakary_Greenfelder-Simonis80@hotmail.com",
+    "job": "Forward Assurance Executive"
+  },
+  {
+    "name": "Jeremy Rath PhD",
+    "phone": "(466) 826-7751 x9003",
+    "email": "Elian49@gmail.com",
+    "job": "International Markets Strategist"
+  }
+]
